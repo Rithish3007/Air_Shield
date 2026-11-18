@@ -1,0 +1,27 @@
+City,AQI,Risk_Level
+Ahmedabad,396.4029367844699,High Risk Hotspot
+Delhi,258.62145345943253,High Risk Hotspot
+Lucknow,232.3481831757093,High Risk Hotspot
+Patna,228.52475780409043,High Risk Hotspot
+Gurugram,227.10780226325193,High Risk Hotspot
+Talcher,172.47135135135136,Moderate Risk
+Brajrajnagar,151.82835820895522,Moderate Risk
+Jorapokhar,147.25320786997435,Moderate Risk
+Guwahati,139.5398406374502,Moderate Risk
+Kolkata,137.1081081081081,Moderate Risk
+Jaipur,133.3649012567325,Moderate Risk
+Bhopal,130.48442906574394,Moderate Risk
+Chennai,123.73593827775012,Moderate Risk
+Amritsar,122.39025389025389,Moderate Risk
+Visakhapatnam,117.60088919288646,Moderate Risk
+Hyderabad,109.51694915254237,Moderate Risk
+Kochi,104.26851851851852,Moderate Risk
+Chandigarh,96.17434210526316,Low Risk
+Bengaluru,94.08636137381782,Low Risk
+Ernakulam,93.44135802469135,Low Risk
+Amaravati,92.80651945320714,Low Risk
+Mumbai,85.74987555998008,Low Risk
+Thiruvananthapuram,74.7320143884892,Low Risk
+Coimbatore,73.34326424870466,Low Risk
+Shillong,49.79838709677419,Low Risk
+Aizawl,34.7787610619469,Low Risk
